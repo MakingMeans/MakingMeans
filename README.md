@@ -1,4 +1,4 @@
-# 👋 Soy David García  
+# David Santiago García
 
 - Estudiante de **Ingeniería de Sistemas** en la **Universidad El Bosque**.  
 - Me apasiona el **desarrollo web full stack** y crear soluciones que mezclen lógica y diseño.  
@@ -7,7 +7,7 @@
 
 ---
 
-### 🌐 Sobre mí
+### Sobre mí
 
 - **Ubicación:** Bogotá, Colombia  
 - Me interesa hablar sobre desarrollo web, arquitectura de software y buenas prácticas.  
@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 Tecnologías y herramientas
+### Tecnologías y herramientas
 
 | Backend | Frontend | Bases de datos | Otros |
 |----------|-----------|----------------|--------|
@@ -27,14 +27,14 @@
 
 ---
 
-### 📬 Contacto
+### Contacto
 
 **Correo:** [davidgar21054@gmail.com](mailto:davidgar21054@gmail.com)  
 **LinkedIn:** [linkedin.com/in/david-garcía-90485633b](https://www.linkedin.com/in/david-garcía-90485633b)  
 
 ---
 
-### 📈 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakingMeans&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakingMeans&layout=compact&theme=tokyonight)
