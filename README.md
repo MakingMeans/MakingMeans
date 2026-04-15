@@ -1,41 +1,62 @@
-# David Santiago García
+# David Santiago García Preciado
 
-- Estudiante de **Ingeniería de Sistemas** en la **Universidad El Bosque**.  
-- Me apasiona el **desarrollo web full stack** y crear soluciones que mezclen lógica y diseño.  
-- Actualmente estoy ampliando mis conocimientos en **Spring Boot**, **Flask** y **bases de datos relacionales y NoSQL**.  
-- Creo que la mejor forma de aprender es construyendo y compartiendo código.  
+Estudiante de Ingeniería de Sistemas en la Universidad El Bosque, enfocado en el desarrollo de aplicaciones web full stack. Me interesa la construcción de software escalable, el diseño de arquitecturas limpias y la aplicación de buenas prácticas en entornos reales.
 
 ---
 
-### Sobre mí
+## Perfil
 
-- **Ubicación:** Bogotá, Colombia  
-- Me interesa hablar sobre desarrollo web, arquitectura de software y buenas prácticas.  
-- Me gusta explorar nuevas tecnologías y trabajo en proyectos personales.  
-- Mi objetivo es crecer como desarrollador profesional y contribuir a proyectos con impacto real.  
-
----
-
-### Tecnologías y herramientas
-
-| Backend | Frontend | Bases de datos | Otros |
-|----------|-----------|----------------|--------|
-| Flask | HTML | MongoDB | Git & GitHub |
-| Spring Boot | CSS | PostgreSQL | Linux / Bash |
-| Python | JavaScript | Oracle | VS Code |
-| Java | Bootstrap | MySQL | REST APIs |
+- Ubicación: Bogotá, Colombia  
+- Intereses: desarrollo web, arquitectura de software, diseño de APIs, buenas prácticas  
+- Enfoque actual: backend con Spring Boot y Flask, integración con bases de datos relacionales y NoSQL  
+- Mentalidad: aprendizaje continuo mediante la construcción de proyectos reales  
 
 ---
 
-### Contacto
+## Stack Tecnológico
 
-**Correo:** [davidgar21054@gmail.com](mailto:davidgar21054@gmail.com)  
-**LinkedIn:** [linkedin.com/in/david-garcía-90485633b](https://www.linkedin.com/in/david-garcía-90485633b)  
+**Backend**  
+Flask · Spring Boot · Python · Java  
+
+**Frontend**  
+HTML · CSS · JavaScript · Bootstrap  
+
+**Bases de Datos**  
+PostgreSQL · MySQL · MongoDB · Oracle  
+
+**Herramientas y Otros**  
+Git · GitHub · Linux · Bash · VS Code · REST APIs · Docker
 
 ---
 
-### Estadísticas de GitHub
+## Áreas de Interés
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakingMeans&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MakingMeans&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=MakingMeans&theme=tokyonight)
+- Diseño e implementación de APIs REST  
+- Arquitectura de microservicios  
+- Modelado de bases de datos  
+- Integración backend-frontend  
+- Optimización y escalabilidad de aplicaciones  
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MakingMeans&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakingMeans&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MakingMeans&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contacto
+
+Correo: davidgar21054@gmail.com  
+LinkedIn: https://www.linkedin.com/in/david-garcia-dev-sistemas/  
+
+---
+
+Actualmente me encuentro fortaleciendo mis habilidades en backend, arquitectura de software y desarrollo de soluciones basadas en datos.
