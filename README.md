@@ -1,19 +1,19 @@
 # David Santiago García Preciado
 
-Estudiante de Ingeniería de Sistemas en la Universidad El Bosque, enfocado en el desarrollo de aplicaciones web full stack. Me interesa la construcción de software escalable, el diseño de arquitecturas limpias y la aplicación de buenas prácticas en entornos reales.
+Systems Engineering student at Universidad El Bosque, focused on full-stack web application development. I’m interested in building scalable software, designing clean architectures, and applying best practices in real-world environments.
 
 ---
 
-## Perfil
+## Profile
 
-- Ubicación: Bogotá, Colombia  
-- Intereses: desarrollo web, arquitectura de software, diseño de APIs, buenas prácticas  
-- Enfoque actual: backend con Spring Boot y Flask, integración con bases de datos relacionales y NoSQL  
-- Mentalidad: aprendizaje continuo mediante la construcción de proyectos reales  
+- Location: Bogotá, Colombia  
+- Interests: Web development, software architecture, API design, best practices  
+- Current focus: Backend with Spring Boot and Flask, integration with relational and NoSQL databases  
+- Mindset: Continuous learning through building real-world projects  
 
 ---
 
-## Stack Tecnológico
+## Tech Stack
 
 **Backend**  
 Flask · Spring Boot · Python · Java  
@@ -21,21 +21,21 @@ Flask · Spring Boot · Python · Java
 **Frontend**  
 HTML · CSS · JavaScript · Bootstrap  
 
-**Bases de Datos**  
+**Databases**  
 PostgreSQL · MySQL · MongoDB · Oracle  
 
-**Herramientas y Otros**  
-Git · GitHub · Linux · Bash · VS Code · REST APIs · Docker
+**Tools & Others**  
+Git · GitHub · Linux · Bash · VS Code · REST APIs · Docker  
 
 ---
 
-## Áreas de Interés
+## Areas of Interest
 
-- Diseño e implementación de APIs REST  
-- Arquitectura de microservicios  
-- Modelado de bases de datos  
-- Integración backend-frontend  
-- Optimización y escalabilidad de aplicaciones  
+- Design and implementation of REST APIs  
+- Microservices architecture  
+- Database modeling  
+- Backend–frontend integration  
+- Application optimization and scalability  
 
 ---
 
@@ -52,11 +52,11 @@ Git · GitHub · Linux · Bash · VS Code · REST APIs · Docker
 
 ---
 
-## Contacto
+## Contact
 
-Correo: davidgar21054@gmail.com  
+Email: davidgar21054@gmail.com  
 LinkedIn: https://www.linkedin.com/in/david-garcia-dev-sistemas/  
 
 ---
 
-Actualmente me encuentro fortaleciendo mis habilidades en backend, arquitectura de software y desarrollo de soluciones basadas en datos.
+I am currently strengthening my skills in backend development, software architecture, and data-driven solution development.
