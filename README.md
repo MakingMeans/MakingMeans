@@ -10,7 +10,7 @@ Building scalable web applications with clean architecture and modern backend te
 </p>
 
 <p align="center">
-Besides building scalable web applications, I actively train in competitive programming (ICPC), where I enjoy solving algorithmic problems involving graphs, dynamic programming, data structures, and optimization.
+Actively train in competitive programming, enjoy solving algorithmic problems involving graphs, dynamic programming, data structures, and optimization.
 </p>
 
 ---
@@ -112,19 +112,24 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ## GitHub Statistics
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="MakingMeans's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=github-dark&preferLogin=false"/>
 
-<p align="center">
+<table>
+<tr>
+<td>
 
 <img height="180" src="https://streak-stats.demolab.com?user=MakingMeans&theme=github-dark&hide_border=true"/>
 
-</p>
+</td>
+<td>
 
-<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakingMeans&layout=compact&theme=github_dark&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MakingMeans&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
