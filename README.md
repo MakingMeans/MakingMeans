@@ -9,6 +9,10 @@ Systems Engineering Student • Backend Developer • Software Architecture Enth
 Building scalable web applications with clean architecture and modern backend technologies.
 </p>
 
+<p align="center">
+Besides building scalable web applications, I actively train in competitive programming (ICPC), where I enjoy solving algorithmic problems involving graphs, dynamic programming, data structures, and optimization.
+</p>
+
 ---
 
 ## About Me
@@ -25,6 +29,9 @@ Currently improving my skills in:
 - Docker
 - Software Architecture
 - Data-driven applications
+- Number Theory
+- ICPC Training
+- Software Architecture
 
 Interested in:
 
@@ -34,6 +41,9 @@ Interested in:
 - Backend Development
 - Database Design
 - Full Stack Development
+- Advanced Graph Algorithms
+- Maximum Flow Algorithms
+- Computational Geometry
 
 ---
 
@@ -75,25 +85,44 @@ Interested in:
 
 ---
 
+## Competitive Programming
+
+I enjoy solving algorithmic problems and continuously improving my problem-solving skills through competitive programming.
+
+### Main Topics
+
+- Graph Algorithms
+- Dynamic Programming
+- Data Structures
+- String Algorithms
+- Number Theory
+- Network Flow
+- Computational Geometry
+- Greedy Algorithms
+
+### Platforms
+
+- Codeforces
+- VJudge
+- UVA Online Judge
+- CSES
+
+---
+
+
 ## GitHub Statistics
 
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false">    <img  alt="MakingMeans's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=github-dark&fontFamily=&preferLogin=false" />  </a>
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MakingMeans&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakingMeans&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=MakingMeans&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=MakingMeans&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MakingMeans&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MakingMeans&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -110,6 +139,7 @@ Interested in:
 - Performance Optimization
 - Scalable Systems
 - Clean Code & Best Practices
+- Competitive Programming
 
 ---
 
@@ -123,6 +153,10 @@ Interested in:
 
 <a href="https://www.linkedin.com/in/david-garcia-dev-sistemas/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/MakingMeans" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
 
 </p>
