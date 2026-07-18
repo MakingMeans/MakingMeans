@@ -112,24 +112,35 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 
 ## GitHub Statistics
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=github-dark&preferLogin=false"/>
-
 <table>
 <tr>
 <td>
 
-<img height="180" src="https://streak-stats.demolab.com?user=MakingMeans&theme=github-dark&hide_border=true"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=tokyonight&preferLogin=false"/>
 
 </td>
 <td>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MakingMeans&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=MakingMeans&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MakingMeans&theme=github-dark&hide_border=true"/>
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MakingMeans&theme=tokyonight&hide_border=true"/>
+
+</td>
+<td>
+
+<img height="180" src="https://raw.githubusercontent.com/MakingMeans/github-stats-transparent/output/generated/languages.svg"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -163,16 +174,6 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 <a href="https://codeforces.com/profile/MakingMeans" target="_blank">
   <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-## Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MakingMeans&style=for-the-badge&color=blue"/>
 
 </p>
 
