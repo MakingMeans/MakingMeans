@@ -116,7 +116,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 <tr>
 <td>
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=tokyonight&preferLogin=false"/>
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=tokyonight&hide_border=true&preferLogin=false"/>
 
 </td>
 <td>
@@ -131,7 +131,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 <tr>
 <td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MakingMeans&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://raw.githubusercontent.com/MakingMeans/github-stats-transparent/output/generated/overview.svg"/>
 
 </td>
 <td>
