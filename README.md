@@ -116,7 +116,7 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 <tr>
 <td>
 
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/MakingMeans?cardType=level-alternate&theme=tokyonight&preferLogin=false"/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MakingMeans&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=MakingMeans&show_icons=true&include_all_commits=true&theme=tokyonight)
 
 </td>
 <td>
