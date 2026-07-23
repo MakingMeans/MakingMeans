@@ -2,88 +2,136 @@
 <h1 align="center">Hi I'm David Santiago García Preciado</h1>
 
 <h3 align="center">
-Systems Engineering Student • Backend Developer • Software Architecture Enthusiast
+Systems Engineering Student • Backend Developer • Software Architecture
 </h3>
 
 <p align="center">
-Building scalable web applications with clean architecture and modern backend technologies.
+Actively training and learning, love solving algorithmic problems involving graphs, dynamic programming, data structures, and optimization.
 </p>
 
 <p align="center">
-Actively train in competitive programming, enjoy solving algorithmic problems involving graphs, dynamic programming, data structures, and optimization.
+<a href="mailto:davidgar21054@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/david-garcia-dev-sistemas/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://codeforces.com/profile/MakingMeans" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## About Me
+```python
+from dataclasses import dataclass
 
-Systems Engineering student at **Universidad El Bosque** (Bogotá, Colombia)
+@dataclass(slots=True, frozen=True)
+class Developer:
 
-Passionate about **backend development**, **software architecture**, and **REST API design**
+    name: str = "David Santiago García Preciado"
+    age: int = 20
+    role: str = "Backend Developer"
+    education: str = (
+        "Systems Engineering "
+        "in Universidad El Bosque"
+    )
+    location: str = "Bogotá, Colombia"
 
-Currently improving my skills in:
+    fav_lenguage: str = "Python"
+    fav_tool: str = "GitHub"
+    fav_hobby: str = "Game Design"
 
-- Spring Boot
-- FastAPI
-- React
-- Docker
-- Software Architecture
-- Data-driven applications
-- Number Theory
-- ICPC Training
-- Software Architecture
+    interests: list[str] = [
+        "Backend Development",
+        "Software Architecture",
+        "REST API Design",
+        "Microservices",
+        "Scalable Systems",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Database Design",
+        "Clean Architecture",
+        "Advanced Graph Algorithms",
+        "Competitive Programming",
+    ]
 
-Interested in:
+    currently_learning: list[str] = [
+        "Spring Boot",
+        "FastAPI",
+        "React",
+        "Docker",
+        "Tailwind",
+        "Data-driven applications",
+        "GitHub Actions",
+        "ICPC Training",
+        "Maximum Flow Algorithms",
+        "Computational Geometry",
+        "Number Theory",
+    ]
 
-- Scalable Web Applications
-- Microservices
-- Clean Architecture
-- Backend Development
-- Database Design
-- Full Stack Development
-- Advanced Graph Algorithms
-- Maximum Flow Algorithms
-- Computational Geometry
-
----
+developer = Developer()
+```
 
 ## Tech Stack
 
+<table align="center">
+
+<tr>
+<td colspan="2" align="center">
+
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bash,latex" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,bash,latex"/>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center" valign="top" width="50%">
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,flask,fastapi" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flask&perline=5"/>
+
+</td>
+
+<td align="center" valign="top" width="50%">
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,astro,tailwind,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,astro,tailwind,bootstrap&perline=5"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" valign="top">
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=5"/>
 
-<p>
+<br>
+
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+
+</td>
+
+<td align="center" valign="top">
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&perline=5"/>
 
----
+</td>
+
+</tr>
+
+</table>
 
 ## Competitive Programming
 
@@ -157,28 +205,3 @@ I enjoy solving algorithmic problems and continuously improving my problem-solvi
 - Clean Code & Best Practices
 - Competitive Programming
 
----
-
-## Contact
-
-<p align="center">
-
-<a href="mailto:davidgar21054@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/david-garcia-dev-sistemas/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/MakingMeans" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<b>"Continuous learning through building real-world software."</b>
-</p>
